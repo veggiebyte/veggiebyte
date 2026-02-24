@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/veggiebyte/veggiebyte/main/banner.png)
+
 <div align="center">
 
 <img src="YOUR_PHOTO_URL_HERE" width="160" style="border-radius: 50%; border: 4px solid #c8f000;" alt="Cindy Stadterman" />
