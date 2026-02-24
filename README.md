@@ -1,20 +1,24 @@
 ![Banner](https://raw.githubusercontent.com/veggiebyte/veggiebyte/main/banner.png)
 
-<div align="center">
+<table>
+<tr>
+<td width="200" align="center">
+<img src="https://raw.githubusercontent.com/veggiebyte/veggiebyte/main/__cartoon_me.png" width="160" style="border-radius: 50%;" alt="Cindy Stadterman" />
+</td>
+<td>
 
-<img src="cartoon_me.png" width="160" style="border-radius: 50%; border: 4px solid #c8f000;" alt="Cindy Stadterman" />
-
-# Hi, I'm Cindy Stadterman 👋
-
-### UI Developer · Front-End Designer · Creative Technologist
+### Hi, I'm Cindy Stadterman 👋
+**UI Developer · Front-End Designer · Creative Technologist**
 
 *Reviving a lifelong passion for visual design — now with code.*
 
-I'm a UI Developer and Front-End Designer with **18+ years of professional graphic design experience**, recently graduated from the **Adobe Digital Academy Software Engineering Bootcamp** at General Assembly. I bring something most developers don't: a trained eye for design, typography, and user experience — built long before I ever wrote a line of JavaScript.
+I'm a UI Developer and Front-End Designer with **18+ years of professional graphic design experience**, recently graduated from the **Adobe Digital Academy Software Engineering Bootcamp** at General Assembly. My design career gave me a trained eye for typography, layout, and user experience — and the bootcamp gave me the technical skills to build what I can envision.
 
-I love taking a basic assignment and asking *"but what if it looked really good?"* — transforming simple homework into polished, real-world mini-projects with custom branding, thoughtful UX, and professional styling.
+I love taking a basic concept and asking *"but what if it looked really good?"* — transforming simple assignments into polished, real-world mini-projects with custom branding, thoughtful UX, and professional styling.
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -53,9 +57,7 @@ A fun, interactive geography game built in React. One of my favorite examples of
 
 ## 🎨 My Background
 
-Before code, I spent **18 years as a professional graphic designer** — working with clients on branding, print, and digital media. When I stepped away from that world, I never lost the eye for detail or the instinct for what makes something *feel* right visually.
-
-The Adobe Digital Academy Bootcamp gave me the technical foundation to combine both worlds. Now I build things that work *and* look intentional — because I believe good UI isn't just a nice-to-have, it's the product.
+I spent 18 years as a professional graphic designer before stepping away from the field in 2016. After a decade of other work, the Adobe Digital Academy Bootcamp reignited my creative side — this time with the technical skills to bring designs to life in the browser. Now I build things that work *and* look intentional — because I believe good UI isn't just a nice-to-have, it's the product.
 
 ---
 
@@ -64,7 +66,6 @@ The Adobe Digital Academy Bootcamp gave me the technical foundation to combine b
 ### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cindy%20Stadterman-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cindystadterman/)
-[![Portfolio](https://img.shields.io/badge/Website-cindystadterman.com-c8f000?style=flat-square&logo=googlechrome&logoColor=black)](http://www.cindystadterman.com)
 
 *Open to frontend, UI/UX, and creative developer roles.*
 
