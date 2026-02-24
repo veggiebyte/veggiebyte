@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://raw.githubusercontent.com/veggiebyte/veggiebyte/main/__cartoon_me.png" width="160" style="border-radius: 50%;" alt="Cindy Stadterman" />
+<img src="https://raw.githubusercontent.com/veggiebyte/veggiebyte/main/cartoon_me.png" width="160" style="border-radius: 50%;" alt="Cindy Stadterman" />
 </td>
 <td>
 
