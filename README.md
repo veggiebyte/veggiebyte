@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="YOUR_PHOTO_URL_HERE" width="160" style="border-radius: 50%; border: 4px solid #c8f000;" alt="Cindy Stadterman" />
+<img src="cartoon_me.png" width="160" style="border-radius: 50%; border: 4px solid #c8f000;" alt="Cindy Stadterman" />
 
 # Hi, I'm Cindy Stadterman 👋
 
