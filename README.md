@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-I'm a UI Developer and Front-End Designer with 18 years of professional graphic design experience, recently graduated from the Adobe Digital Academy Software Engineering Bootcamp at General Assembly. I've always been drawn to the intersection of visual design and technology — and now I build things that work AND look intentional. I love taking a basic concept and asking 'but what if it looked really good?' — transforming projects into polished applications with custom branding, thoughtful UX, and professional styling.
+I'm a UI Developer and Front-End Designer with 18 years of professional graphic design experience, recently graduated from the Adobe Digital Academy Software Engineering Bootcamp at General Assembly. I've always been drawn to the intersection of visual design and technology. Now, I build things that work and look intentional. During the bootcamp, I loved taking basic homework assignments and transforming them into polished, professional products with custom branding, thoughtful UX, and intentional styling.
 
 ---
 
